@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZNNB_FLIGHT_PASS_DST_AND_HOME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZNNB_FLIGHT_PASS_DST_HOME_DM</DOMNAME>
+    <HEADLEN>36</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>17</SCRLEN2>
+    <SCRLEN3>26</SCRLEN3>
+    <DDTEXT>Flgiht Model Report - Passenger Destination and Home Count</DDTEXT>
+    <REPTEXT>Passenger Destination and Home Count</REPTEXT>
+    <SCRTEXT_S>PassDestCo</SCRTEXT_S>
+    <SCRTEXT_M>Pass. Dest. Count</SCRTEXT_M>
+    <SCRTEXT_L>Pass. and Dest. Home Count</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

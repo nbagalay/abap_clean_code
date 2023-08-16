@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZNNB_CLEAN_ABAP_STANDARD</NAME>
+    <NAME>ZNNB_CLEAN_ABAP</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,8 +12,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Program ZNNB_CLEAN_ABAP_STANDARD</ENTRY>
-     <LENGTH>32</LENGTH>
+     <ENTRY>Report ZNNB_CLEAN_ABAP</ENTRY>
+     <LENGTH>22</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
